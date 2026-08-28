@@ -52,6 +52,9 @@
 <h3 align="left">📈 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aymaneboutrik"
-       alt="Aymaneboutrik Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aymaneboutrik&theme=github-compact"
+    alt="Aymaneboutrik GitHub Activity Graph"
+    width="100%"
+  />
 </p>
