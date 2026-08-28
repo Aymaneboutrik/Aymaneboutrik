@@ -29,32 +29,15 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Aymaneboutrik&show_icons=true&include_all_commits=true&count_private=true"
-       alt="Aymaneboutrik GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Aymaneboutrik/Aymaneboutrik/main/profile-summary-card-output/react/0-profile-details.svg" width="100%" />
 </p>
 
-<h3 align="left">💻 Most Used Languages</h3>
-
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymaneboutrik&layout=compact&langs_count=8"
-       alt="Aymaneboutrik Top Languages" />
+  <img src="https://raw.githubusercontent.com/Aymaneboutrik/Aymaneboutrik/main/profile-summary-card-output/react/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Aymaneboutrik/Aymaneboutrik/main/profile-summary-card-output/react/2-most-commit-language.svg" width="49%" />
 </p>
 
-<h3 align="left">🔥 Contribution Streak</h3>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aymaneboutrik"
-       alt="Aymaneboutrik GitHub Streak" />
-</p>
-
-<h3 align="left">📈 Contribution Activity</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aymaneboutrik&theme=github-compact"
-    alt="Aymaneboutrik GitHub Activity Graph"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/Aymaneboutrik/Aymaneboutrik/main/profile-summary-card-output/react/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Aymaneboutrik/Aymaneboutrik/main/profile-summary-card-output/react/4-productive-time.svg" width="49%" />
 </p>
